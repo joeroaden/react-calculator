@@ -1,3 +1,62 @@
+# _react-calculator_
+
+#### By _Joe Roaden_
+
+#### _A REACT calculator using custom operands and styling._
+
+
+![image logo](screen-shot.png)
+
+
+
+---
+## Table of Contents
+[Technologies Used](#technologies-used)  
+[Description](#description)  
+[Setup/Installation Requirements](#setup-and-installation-requirements)   
+[Known Bugs](#known-bugs)  
+[License](#License)
+
+---
+## Technologies Used
+
+* _REACT_
+* _JavaScript_
+* _HTML_
+* _CSS_
+* _JSX_
+
+
+---
+## Description
+
+_A REACT calculator application not using a library for calculations.  This project was build with npx-react-app and has custom styling_
+---
+## Setup and Installation Requirements
+
+<details>
+<summary><strong>Initial Setup</strong></summary>  
+
+1. Copy the git repository url: https://github.com/joeroaden/react-calculator
+2. Open a shell program and navigate to your desktop.
+3. Clone the repository for this project using the `git clone` command and including the copied URL.
+4. While still in the shell program, navigate to the root directory of the newly created file named `react-calculator`.
+5. From the root directory, run `npm install` to install all modules that are listed on package. json file and their dependencies
+6. From the root directory, run `npm run start` to view the application on your local live server.
+
+
+---
+## Known Bugs
+
+* _There are no known bugs at this time_
+
+---
+## License
+
+
+
+[Copyright](/LICENSE) © 2022 Joe Roaden
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +127,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
