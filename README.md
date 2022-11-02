@@ -30,7 +30,7 @@
 ---
 ## Description
 
-_A REACT calculator application not using a library for calculations.  This project was build with npx-react-app and has custom styling_
+_A REACT calculator application not using a library for calculations.  This project was built with custom functions for calculations, reducers and has custom styling_
 ---
 ## Setup and Installation Requirements
 
