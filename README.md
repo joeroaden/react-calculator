@@ -2,7 +2,7 @@
 
 #### By _Joe Roaden_
 
-#### _A REACT calculator using custom operands and styling._
+#### _A REACT calculator using custom functions for calculations and css styling._
 
 
 ![image logo](screen-shot.png)
